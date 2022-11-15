@@ -1,5 +1,5 @@
 server-data/*
-!server-data/server-1-19-2.jar
+!server-data/server-versions/*
 !server-data/eula.txt
 !server-data/server.properties
 backups/*

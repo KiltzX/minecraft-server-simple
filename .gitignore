@@ -1,0 +1,4 @@
+server-data/*
+!server-data/server-1-19-2.jar
+!server-data/eula.txt
+!server-data/server.properties
